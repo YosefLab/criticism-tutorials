@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# local debugging
+local/
+
+# .DS_Store
+.DS_Store
